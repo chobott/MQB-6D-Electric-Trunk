@@ -1,6 +1,8 @@
 # MQB 6D Electric Trunk modification
 Repository about customization for MQB platform  Closing/opening by keyfob, by button. 
 
+![ ](https://github.com/chobott/MQB-6D-Electric-Trunk/blob/main/images/5q0959107l.png)
+
 ## Requirements
 - 5Q0959107J
 - 5Q0959107L
